@@ -1,10 +1,16 @@
+
+
 # Revit's Felines v1.41
+<img width="300" alt="Snep1" src="https://github.com/user-attachments/assets/c0f6f025-8de0-4bbd-83b8-81a78ff4342e" />
 
 An old VRChat avatar pack I used to sell on Gumroad, now I'm making it available here for free.
 
 It hasn't been updated in years, and was built against an older Unity version and VRChat Avatar SDK. It has not been tested against the current SDK. It may need fixes to import or upload correctly. Provided as-is, no support.
 
+https://github.com/user-attachments/assets/4a413b14-f068-458b-8f6e-3c11ce5eec7f
+
 ## Contents
+
 
 - 10 base avatar configs: Lynx, Sabertooth, Cheetah, Snow Leopard, and Lion, each in Male/Female variants
 - VRChat Avatar 3.0 compatible, full-body tracking compatible
