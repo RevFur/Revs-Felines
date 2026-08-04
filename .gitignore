@@ -108,3 +108,6 @@ InitTestScene*.unity*
 # Poiyomi compiled shaders
 **/OptimizedShaders/
 **/OptimizedShaders.meta
+
+/Releases
+/Scratch
