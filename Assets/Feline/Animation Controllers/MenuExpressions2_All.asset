@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: MenuExpressions2_All
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Blep
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Expression
+    value: 9
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Relaxed
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Expression
+    value: 10
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sultry
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Expression
+    value: 11
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Eyes Closed
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Expression
+    value: 12
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sad
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Expression
+    value: 13
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Dumb Pout
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Expression
+    value: 14
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

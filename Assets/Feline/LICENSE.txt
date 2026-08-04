@@ -1,0 +1,19 @@
+These assets are provided "AS IS", without warranty of any kind, including but not limited to the
+warranties of merchantability, fitness for a particular purpose and noninfringement. In no event 
+shall the author be liable for any claim, damages or other liability, whether in an action of 
+contract, tort or otherwise, arising from, out of or in connection with these assets.
+
+By purchasing these assets you agree to the following usage terms:
+   You CAN:
+      -Customize, retexture, or adapt them for your personal use.
+      -Customize, retexture, or adapt them for someone else, freely or for profit, provided you have
+       both purchased the original assets.
+      -Modify them for use in other applications (Neos, Beat Saber, Facerig, etc)
+
+   You CANNOT:
+      -Otherwise resell or redistribute these assets.
+      -Share them with someone else, unless you have both purchased the original assets.
+      -Upload them publically in-game.
+      -Remove the artist credit.
+      -Use them in a manner intended to cause or encourage harm to others, or to promote a
+       politically or religiously motivated message or agenda.
